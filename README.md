@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @SwayamMaiti
 - 👀 I’m interested in coding
-- 🌱 I’m currently learningpython
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning guitar,badminton,karate
+- 📫 How to reach me ...Emailme at maitiswayam@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i am ambidextrous
 
 <!---
 SwayamMaiti/SwayamMaiti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
